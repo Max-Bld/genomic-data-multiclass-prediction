@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The *dataframe.tsv* represents genomic data, and the aim of this project is to predict the target column **class** on the basis of the 37 feature columns. I am using and optimizing **Random Forest** machine learning algorithm for this task.
+The aim of this project is to predict the target column **class** (1, 2, 3, 4 or 5) on the basis of the 37 feature columns from a genomic dataset. It is multi class machine learning problem. I am using and optimizing **Random Forest** machine learning algorithm for this task.
 
 ## Organisation
 
