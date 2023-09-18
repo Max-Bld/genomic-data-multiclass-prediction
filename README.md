@@ -17,6 +17,6 @@ Four stages organizes my notebook:
 
 ## Results
 
-The precision score goes up to 0.7 with the optimized algorithm.
+The precision score goes up to 0.7 with the optimized Random Forest algorithm.
 
 Check my notebook for more details.
