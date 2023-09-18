@@ -1,4 +1,4 @@
-# Multiclass Prediction Random Forest Algorithm
+# Multiclass Prediction with Genomic Data
 
 ![dna](https://images.unsplash.com/photo-1637929476734-bd7f5f78e40a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80)
 The *dataframe.tsv* represents genomic data, and the aim of this project is to predict the target column **class** on the basis of the 37 feature columns. I am using and optimizing **Random Forest** machine learning algorithm for this task.
