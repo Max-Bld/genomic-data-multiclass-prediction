@@ -1,0 +1,14 @@
+# Multiclass Prediction Random Forest Algorithm
+I have been handled with the dataframe.tsv representing genomic data. The aim of this project was to predict the column *class* on the basis of the feature columns using machine learning algorithm.
+
+Three stages organizes my notebook:
+
+1. Data Analysis
+   a. exploratory analysis
+   b. data cleaning
+2. Preprocessing for Machine Learning
+3. Machine Learning
+   a. Random Forest with default parameters
+   b. performance measurements and optimization
+
+I come to an accuracy result of 0.76 with the optimized algorithm.
